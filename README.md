@@ -1,4 +1,4 @@
-# Configuration-DHCP-auto
+# Auto configuration DHCP linux
 
 Prerequis pour utliser mon tools :
 
